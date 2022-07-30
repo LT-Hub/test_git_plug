@@ -15,5 +15,6 @@ public class test1 {
         System.out.println("master冲突合并");
         System.out.println("IDEA_master2冲突合并");
         System.out.println("我推送到远端厂库");
+        System.out.println("我在远端修改了。让本地库拉取pull");
     }
 }
